@@ -1,0 +1,1 @@
+Hi I left this in here just to tell you if you want to convert between text and exe. You will first need to compile sfx.vbp and make sure that it in this folder that's all.
